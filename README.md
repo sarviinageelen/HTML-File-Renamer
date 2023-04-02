@@ -5,5 +5,5 @@ This script renames HTML files in the same directory as the script based on the 
 ## Usage
 
 1. Place your HTML files in the same directory as the script.
-2. Run the script using `python3 script_name.py` (replace `script_name` with the actual name of your script file).
+2. Run the script using `python3 run.py`.
 3. The script will rename the files based on the extracted headline.
